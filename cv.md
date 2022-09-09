@@ -4,3 +4,7 @@
 
 **Frontend Developer**
 
+## Contacts
+* **Discord:** Bogdan (@bogdankorshunov)
+* **Telegram:** @AnsRvns
+* **Mail:** korshunov.oren@gmail.com
